@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Tab?>
+<?import javafx.scene.control.TabPane?>
+<?import javafx.scene.layout.BorderPane?>
+
+<BorderPane prefHeight="425.0" prefWidth="435.0" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1">
+    <bottom>
+        <TabPane prefHeight="425.0" prefWidth="435.0">
+            <tabs>
+                <Tab text="Tab 1" />
+            </tabs>
+        </TabPane>
+    </bottom>
+</BorderPane>
